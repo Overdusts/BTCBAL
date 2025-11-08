@@ -295,10 +295,7 @@ This software is provided "as is", without warranty of any kind. Use at your own
 
 ## Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@overdusts](https://github.com/overdusts)
 
 ---
 
-Made with ❤️ by [Your Name]
